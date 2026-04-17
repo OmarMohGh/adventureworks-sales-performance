@@ -33,4 +33,4 @@ The analysis is based on a relational database consisting of several tables:
 ![Product Details](images/product_details.png)
 
 ## Business Value
-This dashboard enables management to monitor the $25M revenue target in real-time. By identifying which categories contribute most to the 42.1% profit margin, the business can optimize its inventory and marketing spend toward the most profitable customer segments and regions.
+This report provides executives with a "single source of truth" for business performance. By comparing total company profit against specific category performance, leadership can optimize inventory levels and marketing spend toward the most profitable segments and regions.
