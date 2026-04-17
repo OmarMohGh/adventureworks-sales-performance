@@ -29,10 +29,10 @@ The analysis is based on seven interconnected data files from the AdventureWorks
 
 ## Dashboard Preview
 ### 1. Executive Summary
-![Executive Summary](images/dashboard1.png)
+![Executive Summary](images/executive_summary.png)
 
 ### 2. Product Detail Analysis
-![Product Details](images/dashboard2.png)
+![Product Details](images/product_details.png)
 
 ## Business Value
 This dashboard enables management to monitor the $25M revenue target in real-time. By identifying which categories contribute most to the 42.1% profit margin, the business can optimize its inventory and marketing spend toward the most profitable customer segments and regions.
